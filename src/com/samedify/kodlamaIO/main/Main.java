@@ -3,6 +3,7 @@ package com.samedify.kodlamaIO.main;
 public class Main {
 
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
 		Student student = new Student("Smd", "Sy", "111111", "Java", 1200);
 		Student student2 = new Student("Ahmt", "Ky", "22222", "Swift", 980);
